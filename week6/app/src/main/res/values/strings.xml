@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">week6</string>
+    <string name="title">Title</string>
+    <string name="add">ADD</string>
+    <string name="task">TASK</string>
+    <string name="users">USERS</string>
+    <string name="name">User\'s name</string>
+    <string name="add">ADD</string>
+    <string name="btap1">Bài tập 1</string>
+    <string name="text1">Title:</string>
+    <string name="text2">Làm Bài Tập Android</string>
+</resources>
